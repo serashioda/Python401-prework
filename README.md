@@ -1,7 +1,7 @@
 # Python401-prework
 Python401-prework
 
-This is a repository created for Python401 prework. A branch, codeacademy, was also created to showcase the code in specific exercises from the Python Track. 
+This is a repository created for Python401 Codecademy prework. A branch, codecademy, was also created to showcase the code in specific exercises from the Python Track. 
 
 I have made a .py for each of these challenges:
 - Unit 3: PygLatin - part 10
